@@ -3,7 +3,7 @@ public class Main {
     public static void main(String[] args) {
 
         // task 1
-        byte age = 17;
+        byte age = 16;
         if (age >= 18) {
             System.out.println("Если возраст человека равен " + age + ", то он совершеннолетний");
         } else {
